@@ -3,3 +3,5 @@
 *Hello world*
 
 ~~Unavailable link~~
+
+[New link](google.com)
